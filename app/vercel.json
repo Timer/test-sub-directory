@@ -1,0 +1,4 @@
+{
+  "regions": ["iad1"],
+  "build": { "env": { "FORCE_BUILD_IN_REGION": "iad1", "VERCEL_DEBUG": "1" } }
+}
