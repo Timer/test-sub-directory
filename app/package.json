@@ -5,5 +5,7 @@
   "scripts": {
     "build": "echo zero config"
   },
-  "dependencies": {}
+  "dependencies": {
+    "json5": "*"
+  }
 }
